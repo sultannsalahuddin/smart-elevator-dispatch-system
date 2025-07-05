@@ -1,0 +1,7 @@
+com\lift\service\SimulationEngine.class
+com\lift\model\Lift.class
+com\lift\controller\LiftControllerAPI.class
+com\lift\config\CapacityConfig.class
+com\lift\service\DispatchManager.class
+com\lift\LiftDispatchSystemApplication.class
+com\lift\model\LiftRequest.class
