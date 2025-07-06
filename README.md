@@ -25,10 +25,15 @@ Managing efficient lift dispatch in a building with 16 floors and 3 basements. T
 /src
 > main
 >> java/com/lift/config # Configuration classes
+>
 >> java/com/lift/controller # REST Controllers
+> 
 >> java/com/lift/model # Data models (Lift, LiftRequest, etc.)
+> 
 >> java/com/lift/service # Business logic (DispatchManager, etc.)
+> 
 > test
+> 
 >> java/com/lift # Unit tests
 
 ## 5. Running the Project
